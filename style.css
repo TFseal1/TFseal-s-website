@@ -1,0 +1,12 @@
+body{
+background-image: url("bliss.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+h1{
+font-family: "press Start 2P", "concelas"
+}
+p{
+font-family: "Doto"
+}
